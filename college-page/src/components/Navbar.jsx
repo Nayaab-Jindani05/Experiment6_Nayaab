@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="logo-section">
-        <img src="/ves-logo.png" alt="VESIT Logo" className="logo-img" />
+        <img src={`${process.env.PUBLIC_URL}/assets/logo.png`} alt="Logo"  className="logo-img" />
         <h1 className="logo">VESIT</h1>
       </div>
       <ul className="nav-links">
