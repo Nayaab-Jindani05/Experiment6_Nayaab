@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "http://Nayaab-Jindani05.github.io/Experiment6_Nayaab",
+=======
+  "homepage":"http://Nayaab-Jindani05.github.io/Experiment6_Nayaab",
+>>>>>>> 1a37763ebf45d2eb1f0d546d6d0758c12ca7af29
   "name": "college-page",
   "version": "0.1.0",
   "private": true,
