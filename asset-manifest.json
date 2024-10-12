@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/Experiment6_Nayaab/static/css/main.5b93ba28.css",
-    "main.js": "/Experiment6_Nayaab/static/js/main.f91189f4.js",
+    "main.js": "/Experiment6_Nayaab/static/js/main.86d794fd.js",
     "static/media/clg-img.png": "/Experiment6_Nayaab/static/media/clg-img.6cf9b19f56f740638474.png",
+    "static/media/ves-logo.png": "/Experiment6_Nayaab/static/media/ves-logo.db66725229fe3f37093c.png",
     "index.html": "/Experiment6_Nayaab/index.html",
     "main.5b93ba28.css.map": "/Experiment6_Nayaab/static/css/main.5b93ba28.css.map",
-    "main.f91189f4.js.map": "/Experiment6_Nayaab/static/js/main.f91189f4.js.map"
+    "main.86d794fd.js.map": "/Experiment6_Nayaab/static/js/main.86d794fd.js.map"
   },
   "entrypoints": [
     "static/css/main.5b93ba28.css",
-    "static/js/main.f91189f4.js"
+    "static/js/main.86d794fd.js"
   ]
 }
